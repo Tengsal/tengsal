@@ -1,7 +1,7 @@
 
 
 
-**Tengsal/tengsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 🔭 Currently Working On: Implementing multi-language support for web applications to enhance global accessibility and user experience.
 
