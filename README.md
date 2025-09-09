@@ -3,7 +3,6 @@
 
 
 
-🔭 Currently Working On: Implementing multi-language support for web applications to enhance global accessibility and user experience.
 
 🌱 Learning Focus: Advancing my expertise in full-stack web development, with a strong emphasis on scalable architecture and clean design.
 
